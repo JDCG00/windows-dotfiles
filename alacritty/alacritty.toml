@@ -1,0 +1,9 @@
+working_directory = "C:/Users/JD"
+[font]
+normal = { family = "0xProto Nerd Font", style = "Regular" }
+[cursor]
+style = "Beam"
+[shell]
+program = "C:/Program Files/PowerShell/7/pwsh.exe"
+[window]
+opacity = 0.8
