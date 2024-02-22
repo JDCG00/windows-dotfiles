@@ -16,6 +16,7 @@ set ruler
 syntax on
 
 filetype plugin indent on
+
 set tabstop=4
 set shiftwidth=4
 set expandtab
@@ -50,5 +51,3 @@ augroup lsp_install
     au!
     autocmd User lsp_buffer_enabled call s:on_lsp_buffer_enabled()
 augroup END
-
-
